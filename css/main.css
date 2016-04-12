@@ -23,6 +23,14 @@
     margin: 5px;
 }
 
-#contact-list {
+#contact-list li{
   display: inline-block;
+}
+
+.contact-icon {
+  margin: 15px;
+}
+
+#contact {
+  text-align: center;
 }
