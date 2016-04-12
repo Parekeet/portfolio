@@ -1,0 +1,28 @@
+.parallax-container {
+  height: 50%;
+  max-height: 270px;
+}
+
+.project {
+  max-height:550px;
+  max-width: 500px;
+  margin: 1px;
+}
+
+.work-div {
+  padding: 0px;
+}
+
+.card {
+  max-width: 500px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    border: solid 3px black;
+    margin: 5px;
+}
+
+#contact-list {
+  display: inline-block;
+}
